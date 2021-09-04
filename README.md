@@ -15,7 +15,7 @@ The Monitor-System Monitor, as the name suggests, is a clean and simple system m
 -  monitor and Manage Of Of Your Sensors and External devices
 - The last and most powerful thinggis that You can Monitor Your Network System fully. You can watch network devices Their data Uses. You will Know the current mac address, IP address, Network Adapter, And all kinds of Protocols, and many more...
 
-<a href="#"> <img src="./img/ab.png">  </img> </a> <a href="#"> <img src="./img/whote.png">  </img> </a>
+<a href="#"> <img src="./img/ab.png" width="200" height="40" alt="Download lite"> </img> </a>  <a href="#"> <img src="./img/whote.png" width="200" height="90" alt="Download Pro"> </img> </a>
 
 ## Badges
 
